@@ -1,0 +1,11 @@
+path: "C:/Users/rapha/Downloads/BEBE/Treino/dataset-boneca"
+train: ""   # sem split de treino
+val: ""     # sem split de validacao
+test: test  # unico split com pastas por classe
+
+names:
+  0: absent
+  1: left
+  2: prone
+  3: sunpine
+  
